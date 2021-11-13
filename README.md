@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JainSakshi09
-- 👀 I’m interested in ...
-- 🌱 I’m currently 
+- 👀 I’m interested in Web Application and open source
+- 🌱 I’m currently learn machine learning
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me jain.sakshii0901@gmail.com
 
